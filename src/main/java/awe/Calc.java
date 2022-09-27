@@ -10,6 +10,6 @@ public class Calc {
     public static int Subtract(){
         int a=2;
         int b=2;
-        return a+b;
+        return a-b;
     }
 }

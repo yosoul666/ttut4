@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: awe.CalcTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.024 s <<< FAILURE! - in awe.CalcTest
-subtract  Time elapsed: 0.02 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <0> but was: <4>
-	at awe.CalcTest.subtract(CalcTest.java:12)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 s - in awe.CalcTest
