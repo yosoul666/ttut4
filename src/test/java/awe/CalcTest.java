@@ -7,8 +7,8 @@ import static org.junit.jupiter.api.Assertions.*;
 class CalcTest {
 
     @Test
-    void add() {
-        assertEquals(2,new Calc().Add());
-    }
 
+    void subtract() {
+        assertEquals(0,new Calc().Subtract());
+    }
 }

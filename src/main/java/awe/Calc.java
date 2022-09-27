@@ -1,6 +1,7 @@
 package awe;
 
 public class Calc {
+
     public static int Add(){
        int a =1;
        int b =1;
