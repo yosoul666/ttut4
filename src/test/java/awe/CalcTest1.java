@@ -4,11 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CalcTest {
+class CalcTest1 {
 
     @Test
-    void add() {
-        assertEquals(2,new Calc().Add());
+    void subtract() {
+        assertEquals(0,new Calc().Subtract());
     }
-
 }
